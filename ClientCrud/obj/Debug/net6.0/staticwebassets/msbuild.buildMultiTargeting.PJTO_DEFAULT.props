@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PJTO_DEFAULT.props" />
+</Project>

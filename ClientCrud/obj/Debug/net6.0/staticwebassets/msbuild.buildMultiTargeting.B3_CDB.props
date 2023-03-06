@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\B3_CDB.props" />
+</Project>
